@@ -11,16 +11,6 @@ Images are also provided in JPEG and TFRecord format (in the jpeg and tfrecords 
 
 Metadata is also provided outside of the DICOM format, in CSV files.
 
-1. SIIM-ISIC Melanoma Classification
-2. ISIC 2019 TFRecords 256x256
-3. ISIC 2019 TFRecords 384x384
-4. ISIC 2019 TFRecords 512x512
-5. ISIC 2019 TFRecords 768x768
-6. Melanoma TFRecords 256x256
-7. Melanoma TFRecords 384x384
-8. Melanoma TFRecords 512x512
-9. Melanoma TFRecords 768x768
-10.melanoma_hairs
 
 ## CSV Files
 
